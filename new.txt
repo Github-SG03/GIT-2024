@@ -1,1 +1,2 @@
-this is first file 'new.txt's
+this is first file 'new.txt'
+add another content to this file
